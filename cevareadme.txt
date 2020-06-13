@@ -1,1 +1,1 @@
-Fisierele data.txt si splash.txt trebuie puse in acelasi folder cu sursele. Jocul trebuie apoi compilat.
+Fisierele data.txt si splash.txt trebuie sa stea in acelasi folder cu executabilul. Compilati fisierele cu ceva si aia e.
